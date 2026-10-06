@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this software, please cite it as below."
+type: software
+title: "Costi: cost analysis of compounds and finished products (Visual Basic 6, 2002)"
+version: "1.0.0"
+abstract: "Costi compares standard and actual (average) costs of the compounds and finished products of a plastic-film plant. For each compound it combines raw-material cost, scrap and recovery percentages, machine hourly cost and output in kg per hour, and computes the cost per kilogram, also for products laminated with PE or PET. Cost data are imported from the MFG/PRO ERP."
+authors:
+  - family-names: Sbarbaro
+    given-names: Massimo
+    orcid: "https://orcid.org/0009-0006-8965-9013"
+license: MIT
+repository-code: "https://github.com/massimosbarbaro/compound-cost-analysis-vb6"
+keywords:
+  - "Visual Basic 6"
+  - "cost accounting"
+  - "standard cost"
+  - "manufacturing"
+  - "MFG/PRO"
+  - "legacy software"
