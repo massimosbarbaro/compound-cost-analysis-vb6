@@ -1,8 +1,10 @@
 # Costi: cost analysis of compounds and finished products
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23205203.svg)](https://doi.org/10.5281/zenodo.23205203)
+
 *Analisi dei costi delle mescole e dei prodotti finiti*
 
-**Visual Basic 6** · 2002 · version 1.0.0  
+2002 · version 1.0.0  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -30,7 +32,7 @@ DAO 3.51, Microsoft Access 8 object library, Crystal Reports, Winsock, Common Co
 
 | Path | Content |
 |---|---|
-| `src/` | Visual Basic 6 project (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
+| `src/` | Project file (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
 | `config-example/` | Templates of the `.ini` configuration files read at start-up, with placeholder values. |
 
 ## What is not included
@@ -39,13 +41,13 @@ Crystal Reports layouts (`.rpt`), compiled executables, installers, scripts for 
 
 ## Related repositories
 
-- [compound-batch-dosing-vb6](https://github.com/massimosbarbaro/compound-batch-dosing-vb6)
+- [compound-batch-dosing](https://github.com/massimosbarbaro/compound-batch-dosing)
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205203](https://doi.org/10.5281/zenodo.23205203).
 
-> Sbarbaro, Massimo. *Costi: cost analysis of compounds and finished products (Visual Basic 6, 2002)*. Software, version 1.0.0. GitHub: https://github.com/massimosbarbaro/compound-cost-analysis-vb6
+> Sbarbaro, Massimo. 2002. *Costi: cost analysis of compounds and finished products*. Software (2002), version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23205203.
 
 ## License
 
